@@ -1,0 +1,36 @@
+home page:
+    some gif
+    small blurb about me
+
+about:
+    about me
+    picture?
+    name
+    skills
+    education
+    experiences
+    certifications
+    Resume download
+
+project page:
+    project:
+        name
+            links to github repo
+        about
+        gif/picture showcase upon hover
+
+
+contact:
+    link:
+        platform logo
+        username
+            redirects to page
+    LinkedIn
+    Github
+    Email
+
+Header:
+    home, about, projects, contact
+
+Footer:
+    name, about me, contacts, link to portfolio
